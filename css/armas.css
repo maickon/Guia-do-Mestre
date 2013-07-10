@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+
+#tableArmas{
+	background-color:#FFF;
+	border:solid 2px #000;
+}
+
+#colunaCor{
+	background-color:#000;
+	color:#FFF;
+	text-align:center;
+}
+
+#colunaBorda{
+	border-bottom:solid 1px #000;
+	color: black;
+	
+}
+
+#colunaBorda:hover{
+	background-image:url(../imgs/bg.jpg);
+}
+
+.option{
+	border:solid 1px #000;
+	background-color: white;
+	padding: 5px;
+}

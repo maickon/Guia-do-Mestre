@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-repeat:repeat;
+	background-image:url(../img/footer.png);
+}
+h3{
+	background-color:#CCC;
+}
+div.ficha{
+	width:70%;
+	height:1200px;
+	background-color:#000;
+}
+div.cabecalho_meio{
+	width:800px;
+	height:200px
+	}
+div.habilidades{
+	float:left;
+}
+div.hab{	
+	height:160px;
+	width:700px;
+}
+
+td.negrito{
+	text-align:center;
+	color:#000;
+	font-size:12px;
+	font-family:"Arial Black", Gadget, sans-serif;	
+}
+tr.fundo{
+	background-color:#FFF;
+}
+
+
+tr:hover{
+	background:#CCC;
+}
+
+div.img_personagem{
+	width:200px;
+	height:200px;
+	float:right;
+	padding-right:3px;
+	padding-top:23px;
+	
+}
+
+div.menu{
+	width:70%;
+	background-color:#FFF;
+	font-size:18px;
+	padding-bottom:3px;
+}
+
+div.testes_resistencia{
+	padding-top:15px;
+	width:400px;
+	float:left;
+}
+
+div.pericias{
+	float:right;
+	padding-right:3px;
+	padding-top:0px;
+	height:500px;
+}
+
+div.talentos{
+	padding-top:25px;
+	width:400px;
+	float:left;
+}
+div.ataque{
+	padding-top:15px;
+	float:left;
+}
+table.talento{
+	float:left;
+}
+.formulario{
+	width:30%;
+	height:1220px;
+	background-color:white;
+	position:absolute;
+	left: 945px;
+	top: 1px;
+}

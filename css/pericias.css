@@ -1,0 +1,1559 @@
+@CHARSET "ISO-8859-1";
+
+/* CSS Document */
+
+#abrirFechadurasTotal{
+	position:absolute;
+	left: 985px;
+	top: 333px;
+	width: 32px;
+}
+#abrirFechadurasModificador{
+	/*+60*/
+	position:absolute;
+	left: 1045px;
+	top: 333px;
+	width: 32px;
+}
+#abrirFechadurasGrad{
+	/*+155*/
+	position:absolute;
+	left: 1100px;
+	top: 333px;
+	width: 32px;
+}
+#abrirFechadurasOutros{
+	position:absolute;
+	left: 1155px;
+	top: 333px;
+	width: 32px;
+}
+/* --------------------------- */
+#acrobaciaTotal{
+	position:absolute;
+	left: 985px;
+	top: 354px;
+	width: 32px;
+	
+}
+#acrobaciaModificador{
+	position:absolute;
+	left: 1045px;
+	top: 354px;
+	width: 32px;
+}
+#acrobaciaGrad{
+	position:absolute;
+	left: 1100px;
+	top: 354px;
+	width: 32px;
+	
+}
+#acrobaciaOutros{
+	position:absolute;
+	left: 1155px;
+	top: 354px;
+	width: 32px;
+	
+}
+/* --------------------------- */
+
+#adestrarAnimaisTotal{
+	position:absolute;
+	left: 985px;
+	top: 375px;
+	width: 32px;
+}
+
+#adestrarAnimaisModificador{
+	position:absolute;
+	left: 1045px;
+	top: 375px;
+	width: 32px;
+}
+
+#adestrarAnimaisGrad{
+	position:absolute;
+	left: 1100px;
+	top: 375px;
+	width: 32px;
+}
+
+#adestrarAnimaisOutros{
+	position:absolute;
+	left: 1155px;
+	top: 375px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#alquimiaTotal{
+	position:absolute;
+	left: 985px;
+	top: 396px;
+	width: 32px;
+}
+
+#alquimiaModificador{
+	position:absolute;
+	left: 1045px;
+	top: 396px;
+	width: 32px;
+}
+
+#alquimiaGrad{
+	position:absolute;
+	left: 1100px;
+	top: 396px;
+	width: 32px;
+}
+
+#alquimiaOutros{
+	position:absolute;
+	left: 1155px;
+	top: 396px;
+	width: 32px;
+}
+
+
+/* --------------------------- */
+
+#arteDaFugaTotal{
+	position:absolute;
+	left: 985px;
+	top: 417px;
+	width: 32px;
+}
+
+#arteDaFugaModificador{
+	position:absolute;
+	left: 1045px;
+	top: 417px;
+	width: 32px;
+}
+	
+#arteDaFugaGrad{
+	position:absolute;
+	left: 1100px;
+	top: 417px;
+	width: 32px;
+}
+
+#arteDaFugaOutros{
+	position:absolute;
+	left: 1155px;
+	top: 417px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#atuacaoBanjoTotal{
+	position:absolute;
+	left: 985px;
+	top: 439px;
+	width: 32px;
+}
+
+#atuacaoBanjoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 439px;
+	width: 32px;
+}
+	
+#atuacaoBanjoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 439px;
+	width: 32px;
+}
+
+#atuacaoBanjoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 439px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#atuacaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 460px;
+	width: 32px;
+}
+
+#atuacaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 460px;
+	width: 32px;
+}
+	
+#atuacaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 460px;
+	width: 32px;
+}
+
+#atuacaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 460px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#avaliacaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 481px;
+	width: 32px;
+}
+
+#avaliacaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 481px;
+	width: 32px;
+}
+	
+#avaliacaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 481px;
+	width: 32px;
+}
+
+#avaliacaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 481px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#blefarTotal{
+	position:absolute;
+	left: 985px;
+	top: 502px;
+	width: 32px;
+}
+
+#blefarModificador{
+	position:absolute;
+	left: 1045px;
+	top: 502px;
+	width: 32px;
+}
+	
+#blefarGrad{
+	position:absolute;
+	left: 1100px;
+	top: 502px;
+	width: 32px;
+}
+
+#blefarOutros{
+	position:absolute;
+	left: 1155px;
+	top: 502px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#cavalgarTotal{
+	position:absolute;
+	left: 985px;
+	top: 523px;
+	width: 32px;
+}
+
+#cavalgarModificador{
+	position:absolute;
+	left: 1045px;
+	top: 523px;
+	width: 32px;
+}
+	
+#cavalgarGrad{
+	position:absolute;
+	left: 1100px;
+	top: 523px;
+	width: 32px;
+}
+
+#cavalgarOutros{
+	position:absolute;
+	left: 1155px;
+	top: 523px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#concentracaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 544px;
+	width: 32px;
+}
+
+#concentracaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 544px;
+	width: 32px;
+}
+	
+#concentracaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 544px;
+	width: 32px;
+}
+
+#concentracaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 544px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#conhecimentoMasmorrasTotal{
+	position:absolute;
+	left: 985px;
+	top: 565px;
+	width: 32px;
+}
+
+#conhecimentoMasmorrasModificador{
+	position:absolute;
+	left: 1045px;
+	top: 565px;
+	width: 32px;
+}
+	
+#conhecimentoMasmorrasGrad{
+	position:absolute;
+	left: 1100px;
+	top: 565px;
+	width: 32px;
+}
+
+#conhecimentoMasmorrasOutros{
+	position:absolute;
+	left: 1155px;
+	top: 565px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#conhecimentoArcanoTotal{
+	position:absolute;
+	left: 985px;
+	top: 586px;
+	width: 32px;
+}
+
+#conhecimentoArcanoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 586px;
+	width: 32px;
+}
+	
+#conhecimentoArcanoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 586px;
+	width: 32px;
+}
+
+#conhecimentoArcanoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 586px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#conhecimentoCriaturasTotal{
+	position:absolute;
+	left: 985px;
+	top: 607px;
+	width: 32px;
+}
+
+#conhecimentoCriaturasModificador{
+	position:absolute;
+	left: 1045px;
+	top: 607px;
+	width: 32px;
+}
+	
+#conhecimentoCriaturasGrad{
+	position:absolute;
+	left: 1100px;
+	top: 607px;
+	width: 32px;
+}
+
+#conhecimentoCriaturasOutros{
+	position:absolute;
+	left: 1155px;
+	top: 607px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#conhecimentoGeograficoTotal{
+	position:absolute;
+	left: 985px;
+	top: 628px;
+	width: 32px;
+}
+
+#conhecimentoGeograficoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 628px;
+	width: 32px;
+}
+	
+#conhecimentoGeograficoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 628px;
+	width: 32px;
+}
+
+#conhecimentoGeograficoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 628px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#conhecimentoHistoricoTotal{
+	position:absolute;
+	left: 985px;
+	top: 649px;
+	width: 32px;
+}
+
+#conhecimentoHistoricoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 649px;
+	width: 32px;
+}
+	
+#conhecimentoHistoricoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 649px;
+	width: 32px;
+}
+
+#conhecimentoHistoricoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 649px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#conhecimentoNaturalTotal{
+	position:absolute;
+	left: 985px;
+	top: 670px;
+	width: 32px;
+}
+
+#conhecimentoNaturalModificador{
+	position:absolute;
+	left: 1045px;
+	top: 670px;
+	width: 32px;
+}
+	
+#conhecimentoNaturalGrad{
+	position:absolute;
+	left: 1100px;
+	top: 670px;
+	width: 32px;
+}
+
+#conhecimentoNaturalOutros{
+	position:absolute;
+	left: 1155px;
+	top: 670px;
+	width: 32px;
+}
+
+/* --------------------------- */
+/* 985 - 1045 - 1100 - 1155 +21 de top*/
+#conhecimentoNobrezaTotal{
+	position:absolute;
+	left: 985px;
+	top: 691px;
+	width: 32px;
+}
+
+#conhecimentoNobrezaModificador{
+	position:absolute;
+	left: 1045px;
+	top: 691px;
+	width: 32px;
+}
+	
+#conhecimentoNobrezaGrad{
+	position:absolute;
+	left: 1100px;
+	top: 691px;
+	width: 32px;
+}
+
+#conhecimentoNobrezaOutros{
+	position:absolute;
+	left: 1155px;
+	top: 691px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#conhecimentoPlanarTotal{
+	position:absolute;
+	left: 985px;
+	top: 712px;
+	width: 32px;
+}
+
+#conhecimentoPlanarModificador{
+	position:absolute;
+	left: 1045px;
+	top: 712px;
+	width: 32px;
+}
+	
+#conhecimentoPlanarGrad{
+	position:absolute;
+	left: 1100px;
+	top: 712px;
+	width: 32px;
+}
+
+#conhecimentoPlanarOutros{
+	position:absolute;
+	left: 1155px;
+	top: 712px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#conhecimentoReligiosoTotal{
+	position:absolute;
+	left: 985px;
+	top: 733px;
+	width: 32px;
+}
+
+#conhecimentoReligiosoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 733px;
+	width: 32px;
+}
+	
+#conhecimentoReligiosoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 733px;
+	width: 32px;
+}
+
+#conhecimentoReligiosoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 733px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#curaTotal{
+	position:absolute;
+	left: 985px;
+	top: 756px;
+	width: 32px;
+}
+
+#curaModificador{
+	position:absolute;
+	left: 1045px;
+	top: 756px;
+	width: 32px;
+}
+	
+#curaGrad{
+	position:absolute;
+	left: 1100px;
+	top: 756px;
+	width: 32px;
+}
+
+#curaOutros{
+	position:absolute;
+	left: 1155px;
+	top: 756px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#decifrarEscritaTotal{
+	position:absolute;
+	left: 985px;
+	top: 778px;
+	width: 32px;
+}
+
+#decifrarEscritaModificador{
+	position:absolute;
+	left: 1045px;
+	top: 778px;
+	width: 32px;
+}
+	
+#decifrarEscritaGrad{
+	position:absolute;
+	left: 1100px;
+	top: 778px;
+	width: 32px;
+}
+
+#decifrarEscritaOutros{
+	position:absolute;
+	left: 1155px;
+	top: 778px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#diplomaciaTotal{
+	position:absolute;
+	left: 985px;
+	top: 799px;
+	width: 32px;
+}
+
+#diplomaciaModificador{
+	position:absolute;
+	left: 1045px;
+	top: 799px;
+	width: 32px;
+}
+	
+#diplomaciaGrad{
+	position:absolute;
+	left: 1100px;
+	top: 799px;
+	width: 32px;
+}
+
+#diplomaciaOutros{
+	position:absolute;
+	left: 1155px;
+	top: 799px;
+	width: 32px;
+}
+
+
+/* --------------------------- */
+
+#disfarceTotal{
+	position:absolute;
+	left: 985px;
+	top: 820px;
+	width: 32px;
+}
+
+#disfarceModificador{
+	position:absolute;
+	left: 1045px;
+	top: 820px;
+	width: 32px;
+}
+	
+#disfarceGrad{
+	position:absolute;
+	left: 1100px;
+	top: 820px;
+	width: 32px;
+}
+
+#disfarceOutros{
+	position:absolute;
+	left: 1155px;
+	top: 820px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#empatiaComAnimaisTotal{
+	position:absolute;
+	left: 985px;
+	top: 841px;
+	width: 32px;
+}
+
+#empatiaComAnimaisModificador{
+	position:absolute;
+	left: 1045px;
+	top: 841px;
+	width: 32px;
+}
+	
+#empatiaComAnimaisGrad{
+	position:absolute;
+	left: 1100px;
+	top: 841px;
+	width: 32px;
+}
+
+#empatiaComAnimaisOutros{
+	position:absolute;
+	left: 1155px;
+	top: 841px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#equilibrioTotal{
+	position:absolute;
+	left: 985px;
+	top: 862px;
+	width: 32px;
+}
+
+#equilibrioModificador{
+	position:absolute;
+	left: 1045px;
+	top: 862px;
+	width: 32px;
+}
+	
+#equilibrioGrad{
+	position:absolute;
+	left: 1100px;
+	top: 862px;
+	width: 32px;
+}
+
+#equilibrioOutros{
+	position:absolute;
+	left: 1155px;
+	top: 862px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#escalarTotal{
+	position:absolute;
+	left: 985px;
+	top: 883px;
+	width: 32px;
+}
+
+#escalarModificador{
+	position:absolute;
+	left: 1045px;
+	top: 883px;
+	width: 32px;
+}
+	
+#escalarGrad{
+	position:absolute;
+	left: 1100px;
+	top: 883px;
+	width: 32px;
+}
+
+#escalarOutros{
+	position:absolute;
+	left: 1155px;
+	top: 883px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#esconderSeTotal{
+	position:absolute;
+	left: 985px;
+	top: 904px;
+	width: 32px;
+}
+
+#esconderSeModificador{
+	position:absolute;
+	left: 1045px;
+	top: 904px;
+	width: 32px;
+}
+	
+#esconderSeGrad{
+	position:absolute;
+	left: 1100px;
+	top: 904px;
+	width: 32px;
+}
+
+#esconderSeOutros{
+	position:absolute;
+	left: 1155px;
+	top: 904px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#espionarTotal{
+	position:absolute;
+	left: 985px;
+	top: 925px;
+	width: 32px;
+}
+
+#espionarModificador{
+	position:absolute;
+	left: 1045px;
+	top: 925px;
+	width: 32px;
+}
+	
+#espionarGrad{
+	position:absolute;
+	left: 1100px;
+	top: 925px;
+	width: 32px;
+}
+
+#espionarOutros{
+	position:absolute;
+	left: 1155px;
+	top: 925px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#falsificacaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 946px;
+	width: 32px;
+}
+
+#falsificacaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 946px;
+	width: 32px;
+}
+	
+#falsificacaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 946px;
+	width: 32px;
+}
+
+#falsificacaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 946px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#furtividadeTotal{
+	position:absolute;
+	left: 985px;
+	top: 967px;
+	width: 32px;
+}
+
+#furtividadeModificador{
+	position:absolute;
+	left: 1045px;
+	top: 967px;
+	width: 32px;
+}
+	
+#furtividadeGrad{
+	position:absolute;
+	left: 1100px;
+	top: 967px;
+	width: 32px;
+}
+
+#furtividadeOutros{
+	position:absolute;
+	left: 1155px;
+	top: 967px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#identificarMagiaTotal{
+	position:absolute;
+	left: 985px;
+	top: 989px;
+	width: 32px;
+}
+
+#identificarMagiaModificador{
+	position:absolute;
+	left: 1045px;
+	top: 989px;
+	width: 32px;
+}
+	
+#identificarMagiaGrad{
+	position:absolute;
+	left: 1100px;
+	top: 989px;
+	width: 32px;
+}
+
+#identificarMagiaOutros{
+	position:absolute;
+	left: 1155px;
+	top: 989px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#intimidarTotal{
+	position:absolute;
+	left: 985px;
+	top: 1010px;
+	width: 32px;
+}
+
+#intimidarModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1010px;
+	width: 32px;
+}
+	
+#intimidarGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1010px;
+	width: 32px;
+}
+
+#intimidarOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1010px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#leituraLabialTotal{
+	position:absolute;
+	left: 985px;
+	top: 1031px;
+	width: 32px;
+}
+
+#leituraLabialModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1031px;
+	width: 32px;
+}
+	
+#leituraLabialGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1031px;
+	width: 32px;
+}
+
+#leituraLabialOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1031px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#lerEescreverTotal{
+	position:absolute;
+	left: 985px;
+	top: 1052px;
+	width: 32px;
+}
+
+#lerEescreverModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1052px;
+	width: 32px;
+}
+	
+#lerEescreverGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1052px;
+	width: 32px;
+}
+
+#lerEescreverOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1052px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#mensagensSecretasTotal{
+	position:absolute;
+	left: 985px;
+	top: 1073px;
+	width: 32px;
+}
+
+#mensagensSecretasModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1073px;
+	width: 32px;
+}
+	
+#mensagensSecretasGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1073px;
+	width: 32px;
+}
+
+#mensagensSecretasOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1073px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#natacaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 1094px;
+	width: 32px;
+}
+
+#natacaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1094px;
+	width: 32px;
+}
+	
+#natacaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1094px;
+	width: 32px;
+}
+
+#natacaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1094px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#observarTotal{
+	position:absolute;
+	left: 985px;
+	top: 1115px;
+	width: 32px;
+}
+
+#observarModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1115px;
+	width: 32px;
+}
+	
+#observarGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1115px;
+	width: 32px;
+}
+
+#observarOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1115px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#obterInformacaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 1136px;
+	width: 32px;
+}
+
+#obterInformacaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1136px;
+	width: 32px;
+}
+	
+#obterInformacaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1136px;
+	width: 32px;
+}
+
+#obterInformacaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1136px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#oficiosVenenosTotal{
+	position:absolute;
+	left: 985px;
+	top: 1157px;
+	width: 32px;
+}
+
+#oficiosVenenosModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1157px;
+	width: 32px;
+}
+	
+#oficiosVenenosGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1157px;
+	width: 32px;
+}
+
+#oficiosVenenosOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1157px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#oficiosArtesanatoTotal{
+	position:absolute;
+	left: 985px;
+	top: 1178px;
+	width: 32px;
+}
+
+#oficiosArtesanatoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1178px;
+	width: 32px;
+}
+	
+#oficiosArtesanatoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1178px;
+	width: 32px;
+}
+
+#oficiosArtesanatoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1178px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#operarMecanismoTotal{
+	position:absolute;
+	left: 985px;
+	top: 1199px;
+	width: 32px;
+}
+
+#operarMecanismoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1199px;
+	width: 32px;
+}
+	
+#operarMecanismoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1199px;
+	width: 32px;
+}
+
+#operarMecanismoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1199px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#ouvirTotal{
+	position:absolute;
+	left: 985px;
+	top: 1220px;
+	width: 32px;
+}
+
+#ouvirModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1220px;
+	width: 32px;
+}
+	
+#ouvirGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1220px;
+	width: 32px;
+}
+
+#ouvirOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1220px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#procurarTotal{
+	position:absolute;
+	left: 985px;
+	top: 1241px;
+	width: 32px;
+}
+
+#procurarModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1241px;
+	width: 32px;
+}
+	
+#procurarGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1241px;
+	width: 32px;
+}
+
+#procurarOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1241px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#profissaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 1265px;
+	width: 32px;
+}
+
+#profissaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1265px;
+	width: 32px;
+}
+	
+#profissaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1265px;
+	width: 32px;
+}
+
+#profissaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1265px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#prestidigitacaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 1288px;
+	width: 32px;
+}
+
+#prestidigitacaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1288px;
+	width: 32px;
+}
+	
+#prestidigitacaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1288px;
+	width: 32px;
+}
+
+#prestidigitacaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1288px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#saltarTotal{
+	position:absolute;
+	left: 985px;
+	top: 1309px;
+	width: 32px;
+}
+
+#saltarModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1309px;
+	width: 32px;
+}
+	
+#saltarGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1309px;
+	width: 32px;
+}
+
+#saltarOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1309px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#sensoDeDirecaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 1330px;
+	width: 32px;
+}
+
+#sensoDeDirecaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1330px;
+	width: 32px;
+}
+	
+#sensoDeDirecaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1330px;
+	width: 32px;
+}
+
+#sensoDeDirecaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1330px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#sentirMotivacaoTotal{
+	position:absolute;
+	left: 985px;
+	top: 1351px;
+	width: 32px;
+}
+
+#sentirMotivacaoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1351px;
+	width: 32px;
+}
+	
+#sentirMotivacaoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1351px;
+	width: 32px;
+}
+
+#sentirMotivacaoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1351px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#sobrevivenciaTotal{
+	position:absolute;
+	left: 985px;
+	top: 1372px;
+	width: 32px;
+}
+
+#sobrevivenciaModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1372px;
+	width: 32px;
+}
+	
+#sobrevivenciaGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1372px;
+	width: 32px;
+}
+
+#sobrevivenciaOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1372px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#usarCordasTotal{
+	position:absolute;
+	left: 985px;
+	top: 1393px;
+	width: 32px;
+}
+
+#usarCordasModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1393px;
+	width: 32px;
+}
+	
+#usarCordasGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1393px;
+	width: 32px;
+}
+
+#usarCordasOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1393px;
+	width: 32px;
+}
+
+/* --------------------------- */
+
+#usarInstrumentoMagicoTotal{
+	position:absolute;
+	left: 985px;
+	top: 1414px;
+	width: 32px;
+}
+
+#usarInstrumentoMagicoModificador{
+	position:absolute;
+	left: 1045px;
+	top: 1414px;
+	width: 32px;
+}
+	
+#usarInstrumentoMagicoGrad{
+	position:absolute;
+	left: 1100px;
+	top: 1414px;
+	width: 32px;
+}
+
+#usarInstrumentoMagicoOutros{
+	position:absolute;
+	left: 1155px;
+	top: 1414px;
+	width: 32px;
+}

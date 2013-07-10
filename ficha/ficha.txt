@@ -1,0 +1,69 @@
+	 ####################################################################################################################################
+	 #################################################FICHA DESENVOLVIDA PELO GUIA DO MESTRE#############################################
+	 ####################################################################################################################################
+	 ##########################################################CRIADOR MAICKON RANGEL####################################################
+	 ####################################################################################################################################																											 
+					
+	
+	 NOME Zomatsu Akira (Lider Arqueiro)	 JOGADOR Mestre	 XP 190.194
+	 OLHOS castanhos 	COR DA PELE Branca 	 CABELOS careca
+	 NIVEL 20 	RAÇA Humano 	CLASSE guerreiro	DIVINDADE Drag�o	TENDENCIA Leal e Mau
+	 TAMANHO M�dio 	IDADE 33 	SEXO masculino 	ALTURA 1,77 	PESO 71Kg
+	 
+
+
+	 FOR 18+4		PV 361		DESLOCAMENTO 9 m
+	 CON 29+9		CA 29 = 10 + +16 + 3 + 		
+	 DES 43+16		Iniciativa +16
+	 INT 16+3		BBA +20/ +15/ +10/ +5
+	 SAB 26+8
+	 CAR 18+4
+		
+	 TESTES	   	TOTAL	MOD.	BASE				PERICIAS 		TOTAL MOD GRAD
+	 FORTITUDE	21  = 	+9	12				Saltar (For) 27 = 23 +4
+	 VONTADE  	14  = 	+8	6				Cavalgar (Des) 39 = 23 +16
+	 REFEXOS  	22  = 	+16	6				Escalar (For) 27 = 23 +4
+	 																					 								Ofícios (Int)26 = 23 +3
+	 ATAQUE desarmado						Intimidação (Car)27 = 23 +4
+	 BONUS 	24 / 19 / 14 / 9							Adestrar Animais (Car)27 = 23 +4
+	 DANO 	1d3+4							Natação (For)4 =  +4
+																														Observar (Sab)8 =  +8
+																														Ofícios (Int)3 =  +3
+																														Ouvir (Sab)8 =  +8
+																														Profissão (Sab)8 =  +8
+																														Sobrevivência (Sab)8 =  +8
+																														Diplomacia (Car)4 =  +4
+																														Sentir Motivação (Sab)8 =  +8
+																														Usar Cordas (Des)16 =  +16
+																														Usar Instrumento Mágico (Car)4 =  +4
+																														Identificar Magia (Int)3 =  +3
+																														Concentração (Con)9 =  +9
+																														Conhecimento (arcano) (Int)3 =  +3
+																														Blefar (Car)4 =  +4
+																														Conhecimento (história) (Int)3 =  +3
+																														Diplomacia (Car)4 =  +4
+																														Conhecimento (religião) (Int)3 =  +3
+	 TALENTOS
+	 Talentos Add-7
+	 1-Talento Adicional
+	 2-Talento Adicional
+	 3-
+	 4-Talento Adicional
+	 5-
+	 6-Talento Adicional
+	 7-
+	 8-Talento Adicional
+	 9-
+	 10-Talento Adicional
+	 11-
+	 12-Talento Adicional
+	 13-
+	 14-Talento Adicional
+	 15-
+	 16-Talento Adicional
+	 17-
+	 18-Talento Adicional
+	 19-
+	 20-Talento Adicional
+	 
+	####################################################################################################################################	

@@ -1,0 +1,622 @@
+@CHARSET "ISO-8859-1";
+
+/* CSS Document */
+
+.border,.nav{
+	padding: 5px 5px 5px 15px;
+	position:absolute;
+	border:#CCC solid 1px;
+	left: 1199px;
+	top: 20px;
+	width: 175px;
+	height: 1430px;
+}
+	
+#border{
+	border:#CCC solid 1px;
+}
+ul.nav {
+	list-style: none; /* this removes the list marker */ 
+	border-top: 1px solid #666; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
+	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
+}
+ul.nav li {
+	border-bottom: 1px solid #666; /* this creates the button separation */
+}
+ul.nav a, ul.nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
+	padding: 5px 5px 5px 15px;
+	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
+	text-decoration: none;
+	background-image:url(../../imgs/bg2.jpg);
+	color: #000;
+}
+.bgColor{
+	background-image:url(../imgs/bg2.jpg);
+}
+	
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
+	background: #900;
+	color: #FFF;
+}
+
+/* Fim da configuração do menu lateral */
+
+#nome{
+	position:absolute;
+	left: 63px;
+	top: 35px;
+	width: 332px;
+}
+
+#nomeJogador{
+	position:absolute;
+	left: 404px;
+	top: 35px;
+	width: 307px;
+}
+
+#xp{
+	position:absolute;
+	left: 722px;
+	top: 35px;
+	width: 161px;
+}
+
+#nivel{
+	position:absolute;
+	height: 19px;
+	left: 63px;
+	top: 66px;
+	width: 46px;
+}
+
+#raca{
+	position:absolute;
+	left: 119px;
+	top: 66px;
+	width: 161px;
+}
+
+#classe{
+	position:absolute;
+	left: 292px;
+	top: 66px;
+	width: 134px;
+}
+
+#divindade{
+	position:absolute;
+	left: 438px;
+	top: 66px;
+	width: 161px;
+}
+
+#religiao{
+	position:absolute;
+	width: 105px;
+	left: 607px;
+	top: 66px;
+}
+
+#tendencia{
+	position:absolute;
+	left: 721px;
+	top: 66px;
+	width: 161px;
+}
+
+#tamanho{
+	position:absolute;
+	left: 62px;
+	top: 99px;
+	width: 71px;
+}
+
+#idade{
+	position:absolute;
+	left: 144px;
+	top: 99px;
+	width: 91px;
+}
+
+#sexo{
+	position:absolute;
+	left: 246px;
+	top: 99px;
+	width: 105px;
+}
+
+#altura{
+	position:absolute;
+	left: 360px;
+	top: 99px;
+	width: 102px;
+}
+
+#peso{
+	position:absolute;
+	left: 472px;
+	top: 99px;
+	width: 104px;
+}
+
+#olhos{
+	position:absolute;
+	left: 585px;
+	top: 99px;
+	height: 22px;
+	width: 106px;
+}
+
+#cabelos{
+	position:absolute;
+	left: 702px;
+	top: 99px;
+	width: 101px;
+}
+
+#pele{
+	position:absolute;
+	left: 815px;
+	top: 99px;
+}
+
+
+#for{
+	position:absolute;
+	left: 154px;
+	top: 167px;
+}
+
+#des{
+	position:absolute;
+	left: 154px;
+	top: 210px;
+}
+
+#con{
+	position:absolute;
+	left: 154px;
+	top: 254px;
+}
+
+#int{
+	position:absolute;
+	left: 154px;
+	top: 295px;
+}
+
+#sab{
+	position:absolute;
+	left: 154px;
+	top: 338px;
+}
+
+#car{
+	position:absolute;
+	left: 154px;
+	top: 381px;
+}
+
+#forMod{
+	position:absolute;
+	left: 215px;
+	top: 167px;
+}
+
+#desMod{
+	position:absolute;
+	left: 215px;
+	top: 210px;
+}
+
+#conMod{
+	position:absolute;
+	left: 215px;
+	top: 254px;
+}
+
+#intMod{
+	position:absolute;
+	left: 215px;
+	top: 295px;
+}
+
+#sabMod{
+	position:absolute;
+	left: 215px;
+	top: 338px;
+}
+
+#carMod{
+	position:absolute;
+	left: 215px;
+	top: 381px;
+}
+
+#fortBase{
+	position:absolute;
+	left: 270px;
+	top: 443px;
+	width: 27px;
+}
+
+#reflBase{
+	position:absolute;
+	left: 270px;
+	top: 486px;
+	width: 35px;
+	height: 20px;
+}
+
+#vontBase{
+	position:absolute;
+	left: 270px;
+	top: 527px;
+	width: 33px;
+	height: 22px;
+}
+
+#fortTotal{
+	position:absolute;
+	left: 213px;
+	top: 443px;
+	width: 27px;
+	}
+	
+#reflTotal{
+	position:absolute;
+	left: 213px;
+	top: 486px;
+	width: 35px;
+	height: 20px;
+	}
+	
+#vontTotal{
+	position:absolute;
+	left: 213px;
+	top: 527px;
+	width: 33px;
+	height: 22px;
+	}
+	
+#fortMod{
+	position:absolute;
+	left: 328px;
+	top: 443px;
+	width: 27px;
+	}
+	
+#reflMod{
+	position:absolute;
+	left: 328px;
+	top: 486px;
+	width: 35px;
+	height: 20px;
+	}
+	
+#vontMod{
+	position:absolute;
+	left: 328px;
+	top: 527px;
+	width: 33px;
+	height: 22px;
+	}
+
+#PV{
+	position:absolute;
+	left: 468px;
+	top: 170px;
+	width: 30px;
+	height: 27px;
+}
+
+#CA{
+	position:absolute;
+	left: 470px;
+	top: 210px;
+	width: 34px;
+	height: 27px;
+}
+
+#CAnautal{
+	position:absolute;
+	left: 810px;
+	top: 210px;
+	width: 40px;
+}
+
+#destrezaNaCa{
+	position:absolute;
+	left: 695px;
+	top: 210px;
+	width: 28px;
+	height: 24px;
+}
+
+#deslocamento{
+	position:absolute;
+	left: 1041px;
+	top: 162px;
+	width: 35px;
+	height: 25px;
+}
+
+#iniciativaTotal{
+	position:absolute;
+	left: 521px;
+	top: 275px;
+	width: 35px;
+	height: 26px;
+}
+
+#iniciativaMod{
+	position:absolute;
+	left: 588px;
+	top: 275px;
+	width: 41px;
+	height: 25px;
+}
+
+#iniciativaOutros{
+	position:absolute;
+	height: 27px;
+	left: 634px;
+	top: 275px;
+	width: 41px;
+}
+
+#bba{
+	position:absolute;
+	height: 27px;
+	left: 575px;
+	top: 358px;
+	width: 41px;
+}
+#armaCorpoAcorpoTotal{
+	position:absolute;
+	left: 230px;
+	top: 604px;
+	width: 89px;
+}
+
+#armaCorpoAcorpoBase{
+	position:absolute;
+	left: 344px;
+	top: 604px;
+	width: 90px;
+}
+
+#armaCorpoAcorpoForca{
+	position:absolute;
+	left: 466px;
+	top: 604px;
+	width: 35px;
+	height: 25px;
+}
+
+#armaCorpoAcorpoOutros{
+	position:absolute;
+	left: 581px;
+	top: 604px;
+	width: 30px;
+	height: 23px;
+}
+
+#ataqueAdistanciaTotal{
+	position:absolute;
+	left: 230px;
+	top: 644px;
+	width: 90px;
+	height: 22px;
+}
+
+#ataqueAdistanciaBase{
+	position:absolute;
+	left: 344px;
+	top: 644px;
+	width: 85px;
+}
+
+#ataqueAdistanciaDestreza{
+	position:absolute;
+	left: 465px;
+	top: 644px;
+	width: 34px;
+	height: 23px;
+}
+
+#ataqueAdistanciaOutros{
+	position:absolute;
+	left: 579px;
+	top: 644px;
+	width: 36px;
+	height: 21px;
+}
+
+#armaNome{
+	position:absolute;
+	left: 66px;
+	top: 730px;
+	width: 209px;
+}
+
+#armaBonusAtaque{
+	position:absolute;
+	left: 282px;
+	top: 730px;
+	width: 195px;
+}
+
+#arnmaDano{
+	position:absolute;
+	left: 487px;
+	top: 730px;
+	width: 95px;
+}
+
+#armaDecisivo{
+	position:absolute;
+	left: 590px;
+	top: 730px;
+	width: 79px;
+}
+
+#armaAlcance{
+	position:absolute;
+	left: 65px;
+	top: 773px;
+	width: 75px;
+}
+
+#armaPeso{
+	position:absolute;
+	left: 146px;
+	top: 773px;
+	width: 60px;
+}
+
+#armaTipo{
+	position:absolute;
+	left: 213px;
+	top: 773px;
+}
+
+#armaTamanho{
+	position:absolute;
+	left: 270px;
+	top: 773px;
+	width: 70px;
+}
+
+#armaPropiedades{
+	position:absolute;
+	left: 351px;
+	top: 773px;
+	width: 320px;
+}
+
+#armaduraNome{
+	position:absolute;
+	left: 65px;
+	top: 1153px;
+	width: 211px;
+}
+
+#armaduraTipo{
+	position:absolute;
+	left: 282px;
+	top: 1153px;
+	width: 96px;
+}
+
+#armaduraBonus{
+	position:absolute;
+	left: 385px;
+	top: 1153px;
+	width: 74px;
+}
+
+#armaduraBonusDestreza{
+	position:absolute;
+	left: 464px;
+	top: 1153px;
+	width: 108px;
+}
+
+#armaduraFalhaArcana{
+	position:absolute;
+	left: 577px;
+	top: 1153px;
+	width: 98px;
+}
+
+#armaduraPenalidade{
+	position:absolute;
+	left: 66px;
+	top: 1197px;
+	width: 85px;
+}
+
+#armaduraPeso{
+	position:absolute;
+	left: 156px;
+	top: 1197px;
+	width: 51px;
+}
+
+#armaduraDeslocamento{
+	position:absolute;
+	left: 223px;
+	top: 1197px;
+}
+
+#armaduraPropiedades{
+	position:absolute;
+	left: 292px;
+	top: 1197px;
+	width: 381px;
+}
+
+#escudoNome{
+	position:absolute;
+	left: 66px;
+	top: 1260px;
+	width: 211px;
+}
+
+#escudoTipo{
+	position:absolute;
+	left: 281px;
+	top: 1260px;
+	width: 96px;
+}
+
+#escudoBonus{
+	position:absolute;
+	left: 384px;
+	top: 1260px;
+	width: 74px;
+}
+
+#escudoBonusDestreza{
+	position:absolute;
+	left: 464px;
+	top: 1260px;
+	width: 109px;
+}
+
+#escudoFalhaArcana{
+	position:absolute;
+	left: 578px;
+	top: 1260px;
+	width: 92px;
+}
+
+#escudoPenalidade{
+	position:absolute;
+	left: 65px;
+	top: 1305px;
+	width: 87px;
+}
+
+#escudoPeso{
+	position:absolute;
+	left: 155px;
+	top: 1305px;
+	width: 53px;
+}
+
+#escudoDeslocamento{
+	position:absolute;
+	left: 215px;
+	top: 1305px;
+	width: 71px;
+}
+
+#escudoPropiedades{
+	position:absolute;
+	left: 295px;
+	top: 1305px;
+	width: 376px;
+}

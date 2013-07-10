@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+.historia{
+	width: auto;
+	height: 200px;
+	background-color: white;
+	padding-left: 248px;
+	padding-right: 30px;
+}
+
+.artefatos{
+	width: auto;
+	height: auto;
+	background-color: white;
+	padding-left: 248px;
+	padding-right: 30px;
+}

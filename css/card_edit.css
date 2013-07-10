@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+label.atq{
+	position:absolute;
+	left: 225px;
+	top: 775px;
+	width: 26px;
+	height: 26px;
+}
+
+label.def{
+	position:absolute;
+	left: 225px;
+	top: 800px;
+	width: 26px;
+	height: 26px;
+}
+
+label.res{
+	position:absolute;
+	left: 315px;
+	top: 801px;
+	width: 26px;
+	height: 26px;
+}
+
+label.mag{
+	position:absolute;
+	left: 315px;
+	top: 775px;
+	width: 26px;
+	height: 26px;
+}
+
+label.pv{
+	position:absolute;
+	left: 452px;
+	top: 885px;
+	width: 26px;
+	height: 26px;
+}
+
+label.lv{
+	position:absolute;
+	left: 457px;
+	top: 792px;
+	width: 26px;
+	height: 26px;
+}
+
+label.tendencia{
+	position:absolute;
+	left: 435px;
+	top: 840px;
+	width: 26px;
+	height: 26px;
+}
+
+label.tipo{
+	position:absolute;
+	left: 210px;
+	top: 745px;
+	width: 26px;
+	height: 26px;
+}
+
+.card_edit{
+	width:300px;
+	height:500px;
+}

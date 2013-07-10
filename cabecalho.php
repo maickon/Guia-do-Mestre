@@ -1,0 +1,1 @@
+<a href="../../index.php" class="header"><img src="../img/layout02.jpg" alt="Equipe 7" name="Insert_logo" title="Uma equipe de aventureiros conhecida como Equipe 7" id="Insert_logo" width="100%" height="450" style="background: #CCC; display:block; color: #00C;" /></a>
